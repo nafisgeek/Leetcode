@@ -22,6 +22,7 @@ In this repository, I push all the leetcode problem which I solved.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nafisgeek/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nafisgeek/Leetcode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/nafisgeek/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/nafisgeek/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -31,4 +32,8 @@ In this repository, I push all the leetcode problem which I solved.
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/nafisgeek/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/nafisgeek/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
