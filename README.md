@@ -16,6 +16,7 @@ In this repository, I push all the leetcode problem which I solved.
 | [0027-remove-element](https://github.com/nafisgeek/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/nafisgeek/Leetcode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/nafisgeek/Leetcode/tree/master/0283-move-zeroes) |
+| [1480-running-sum-of-1d-array](https://github.com/nafisgeek/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,4 +27,8 @@ In this repository, I push all the leetcode problem which I solved.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nafisgeek/Leetcode/tree/master/0001-two-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/nafisgeek/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
