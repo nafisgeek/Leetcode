@@ -9,6 +9,7 @@ In this repository, I push all the leetcode problem which I solved.
 | [0009-palindrome-number](https://github.com/nafisgeek/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/nafisgeek/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/nafisgeek/Leetcode/tree/master/0070-climbing-stairs) |
+| [0263-ugly-number](https://github.com/nafisgeek/Leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/nafisgeek/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Array
 |  |
