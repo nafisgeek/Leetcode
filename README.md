@@ -11,6 +11,7 @@ In this repository, I push all the leetcode problem which I solved.
 | [0070-climbing-stairs](https://github.com/nafisgeek/Leetcode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/nafisgeek/Leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/nafisgeek/Leetcode/tree/master/0367-valid-perfect-square) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/nafisgeek/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Array
 |  |
 | ------- |
