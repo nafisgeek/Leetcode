@@ -14,6 +14,7 @@ In this repository, I push all the leetcode problem which I solved.
 | [0367-valid-perfect-square](https://github.com/nafisgeek/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/nafisgeek/Leetcode/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/nafisgeek/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nafisgeek/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Array
 |  |
 | ------- |
@@ -24,6 +25,7 @@ In this repository, I push all the leetcode problem which I solved.
 | [0217-contains-duplicate](https://github.com/nafisgeek/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/nafisgeek/Leetcode/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/nafisgeek/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nafisgeek/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
