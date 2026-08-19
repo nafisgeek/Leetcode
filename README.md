@@ -23,6 +23,7 @@ In this repository, I push all the leetcode problem which I solved.
 | [0027-remove-element](https://github.com/nafisgeek/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/nafisgeek/Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/nafisgeek/Leetcode/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/nafisgeek/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/nafisgeek/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/nafisgeek/Leetcode/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/nafisgeek/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -78,4 +79,8 @@ In this repository, I push all the leetcode problem which I solved.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/nafisgeek/Leetcode/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/nafisgeek/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
